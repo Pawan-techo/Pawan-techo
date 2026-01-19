@@ -42,8 +42,10 @@
 ✔ TCS iON Certified
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pawan-techo&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-techo&theme=tokyonight" height="170"/> </p>
-📌 What I Value
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pawan-techo&show_icons=true&theme=tokyonight" height="170"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-techo&theme=tokyonight" height="170"/> </p>
+
+<h2>📌 What I Value</h2>
 
 ✔ Clean Architecture
 ✔ Readable Code
